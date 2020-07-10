@@ -1,6 +1,17 @@
-### Hi there 👋
+<h1 align="center">Fptbb</h1>
 
+### Eai, como vai? 👋
+
+<h3>FunFacts/FAQ:</h3>
+
+ - **Como me encontrar?**
+ Você pode me encontrar no meu [site](https://fptbb.com), mandando uma mensagem no meu [Twitter](https://twitter.com/fptbb) ou enviando um email para `lucas@fptbb.com`.
+ - **Porque tens tão poucos repositórios e tantas contribuições listadas?**
+ Porque por algum motivo que não sei o Github lista os commits em gits privados publicamente, e sobre tais, tenho muitos.
 <!--
+TODO: Melhorar essa bio quando tiver ideias :P
+
+Texto padrão:
 **Fptbb/Fptbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
