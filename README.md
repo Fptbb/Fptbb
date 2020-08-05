@@ -8,6 +8,16 @@
  Você pode me encontrar no meu [site](https://fptbb.com), mandando uma mensagem no meu [Twitter](https://twitter.com/fptbb) ou enviando um email para `lucas@fptbb.com`.
  - **Porque tens tão poucos repositórios e tantas contribuições listadas?**
  Porque por algum motivo que não sei o Github lista os commits em gits privados publicamente, e sobre tais, tenho muitos.
+
+<a href="https://fptbb.com/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fptbb&count_private=true&hide=contribs&show_icons=true" />
+</a>
+<a href="https://fptbb.com/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&layout=compact" />
+</a>
+
+
+
 <!--
 TODO: Melhorar essa bio quando tiver ideias :P
 
