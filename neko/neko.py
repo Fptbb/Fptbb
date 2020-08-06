@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-
+# Credito: https://github.com/RangerDigital/neko-box
 import os
 import timeago
 import requests
@@ -20,7 +20,7 @@ ANILIST_USERNAME = os.environ["INPUT_ANILIST_USERNAME"]
 def update_gist(description, content):
     params = {"scope": "gist"}
     headers = {"Authorization": "token {}".format(GH_TOKEN)}
-    payload = {"description": description, "public": True, "files": {"Powered by Neko-Box!": {"content": content}}}
+    payload = {"description": description, "public": True, "files": {"Anime Box": {"content": content}}}
 
     response = requests.post(GH_API + "/gists/" + GIST_ID, headers=headers, params=params, json=payload)
 
