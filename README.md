@@ -15,10 +15,10 @@
  Porque por algum motivo que não sei o Github lista os commits em gits privados publicamente, e sobre tais, tenho muitos.
 
 <a href="https://fptbb.com/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fptbb&count_private=true&hide=contribs&show_icons=true&title_color=ffff00&icon_color=fff&text_color=fff&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fptbb&count_private=true&hide=contribs&show_icons=true&title_color=ffff00&icon_color=fff&text_color=fff&bg_color=151515" />
 </a>
 <a href="https://fptbb.com/">
-  <img align="right" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&theme=dark&hide=html&layout=compact" /> 
+  <img align="center" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&theme=dark&hide=html&layout=compact" /> 
 </a>
 
 <!--
