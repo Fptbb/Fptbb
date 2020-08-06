@@ -1,7 +1,7 @@
 FROM python:latest
 
 # Install dependencies.
-ADD requirements.txt /requirements.txt
+ADD requirements.txt /neko/requirements.txt
 RUN pip install -r requirements.txt
 
 CMD python ./neko/neko.py
