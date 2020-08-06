@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 Não utilizado:
 <a href="https://fptbb.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&layout=compact" />
+  <img alig="right" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&theme=dark&hide=html&layout=compact" />
 </a>
 -->
