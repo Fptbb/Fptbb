@@ -32,17 +32,8 @@
  - **Como me encontrar?**
  Você pode me encontrar no meu [site](https://fptbb.com), mandando uma mensagem no meu [Twitter](https://twitter.com/fptbb) ou enviando um email para `lucas@fptbb.com`.
  - **Porque tens tão poucos repositórios e tantas contribuições listadas?**
- Porque por algum motivo que não sei o Github lista os commits em gits privados publicamente, e sobre tais, tenho muitos.
-
-<a href="https://fptbb.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fptbb&count_private=true&hide=contribs&show_icons=true&title_color=ffff00&icon_color=fff&text_color=fff&bg_color=151515" />
-</a>
-<a href="https://fptbb.com/">
-  <img align="center" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&theme=dark&hide=html&layout=compact" /> 
-</a>
-
+ O Github lista os commits em gits privados publicamente, então tem bastante ali em baixo (nem sempre).
 <!--
 <a href="https://fptbb.com/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&layout=compact" />
-</a>
--->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fptbb&count_private=true&hide=contribs&show_icons=true&title_color=ffff00&icon_color=fff&text_color=fff&bg_color=151515" />
+</a>-->
