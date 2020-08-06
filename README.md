@@ -12,11 +12,6 @@
 <a href="https://fptbb.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fptbb&count_private=true&hide=contribs&show_icons=true" />
 </a>
-<a href="https://fptbb.com/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&layout=compact" />
-</a>
-
-
 
 <!--
 TODO: Melhorar essa bio quando tiver ideias :P
@@ -34,4 +29,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Não utilizado:
+<a href="https://fptbb.com/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&layout=compact" />
+</a>
 -->
