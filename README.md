@@ -2,6 +2,11 @@
 
 ### Eai, como vai? 👋
 
+- 🔭 Atualmente crio mais projetos por hobby que por comissão.
+- 🌱 Estou aprendendo python.
+- 👯 Colaboro com tudo que acho interessante.
+- 💬 Pergunte-me sobre qualquer um dos meus projetos.
+
 <h3>FunFacts/FAQ:</h3>
 
  - **Como me encontrar?**
@@ -10,7 +15,7 @@
  Porque por algum motivo que não sei o Github lista os commits em gits privados publicamente, e sobre tais, tenho muitos.
 
 <a href="https://fptbb.com/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fptbb&count_private=true&hide=contribs&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fptbb&count_private=true&hide=contribs&show_icons=true&title_color=ffff00&icon_color=fff&text_color=fff&bg_color=151515" />
 </a>
 
 <!--
@@ -21,14 +26,7 @@ Texto padrão:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 Não utilizado:
 <a href="https://fptbb.com/">
