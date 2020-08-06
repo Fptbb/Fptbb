@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      #- uses: actions/checkout@master
 
-      - name: Update activity from AniList
-        uses: rangerdigital/neko-box@master
+      - name: Atualiza atividade do AniList
+        uses: Fptbb/Fptbb@neko
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
