@@ -16,7 +16,9 @@
 
 <a href="https://fptbb.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fptbb&count_private=true&hide=contribs&show_icons=true&title_color=ffff00&icon_color=fff&text_color=fff&bg_color=151515" />
-  <img alig="right" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&theme=dark&hide=html&layout=compact" />
+</a>
+<a href="https://fptbb.com/">
+  <img align="right" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=fptbb&theme=dark&hide=html&layout=compact" /> 
 </a>
 
 <!--
