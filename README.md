@@ -13,7 +13,7 @@
 <code><a href="" alt="javascript"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="20" height="20"/></a></code>
 <code><a href="https://www.python.org/" alt="python"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="20" height="20"/></a></code>
 <code><a href="https://www.typescriptlang.org/" alt="typescript"><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="20" height="20"/></a></code>
-<code><a href="https://nodejs.org/" alt="nodejs"><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"/></a></code>
+<code><a href="https://nodejs.org/" alt="nodejs"><img src="https://icon-library.com/images/node-js-icon/node-js-icon-12.jpg" width="20" height="20"/></a></code>
 <code><a href="https://www.electronjs.org/" alt="electron"><img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" width="20" height="20"/></a></code>
 <code><a href="https://expressjs.com/" alt="express"><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" width="20" height="20"/></a></code>
 <code><a href="https://www.mongodb.com/" alt="mongodb"><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width="20" height="20"/></a></code>
