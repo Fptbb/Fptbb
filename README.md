@@ -15,7 +15,7 @@
 <code><a href="https://www.typescriptlang.org/" alt="typescript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" width="20" height="20"/></a></code>
 <code><a href="https://nodejs.org/" alt="nodejs"><img src="https://icon-library.com/images/node-js-icon/node-js-icon-12.jpg" width="20" height="20"/></a></code>
 <code><a href="https://www.electronjs.org/" alt="electron"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/electron/electron-original.svg" width="20" height="20"/></a></code>
-<code><a href="https://expressjs.com/" alt="express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original-wordmark.svg" width="20" height="20"/></a></code>
+<code><a href="https://expressjs.com/" alt="express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original.svg" width="20" height="20"/></a></code>
 <code><a href="https://www.mongodb.com/" alt="mongodb"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original-wordmark.svg" width="20" height="20"/></a></code>
 <code><a href="https://www.postgresql.org/" alt="postgresql"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original-wordmark.svg" width="20" height="20"/></a></code>
 <code><a href="https://redis.io/" alt="redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original-wordmark.svg" width="20" height="20"/></a></code>
