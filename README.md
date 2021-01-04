@@ -7,7 +7,7 @@
 - 👯 Colaboro com tudo que acho interessante.
 - 💬 Pergunte-me sobre qualquer um dos meus projetos.
 - ✍️ Linguagens e ferramentas:
-<code><a href="https://pt.wikipedia.org/wiki/HTML5" alt="html5"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="20" height="20"/></a></code>
+<code><a href="https://pt.wikipedia.org/wiki/HTML5" alt="html5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/html5/html5-original.svg" width="20" height="20"/></a></code>
 <code><a href="https://sass-lang.com/" alt="sass"><img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="20" height="20"/></a></code>
 <code><a href="https://webpack.js.org/" alt="webpack"><img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" width="20" height="20"/></a></code>
 <code><a href="" alt="javascript"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="20" height="20"/></a></code>
