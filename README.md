@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://fpt.icu/rr"><img src="https://github.com/Fptbb/Fptbb/raw/master/info.svg?sanitize=true"></a>
+	<a href="https://fpt.icu/r"><img src="https://github.com/Fptbb/Fptbb/raw/master/info.svg?sanitize=true"></a>
 </div>
 <br>
 <h1 align="center">Fptbb</h1>
