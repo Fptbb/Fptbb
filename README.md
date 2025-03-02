@@ -14,8 +14,7 @@
 <code><a href="https://www.python.org/" alt="python"><img src="https://api.iconify.design/simple-icons:python.svg?color=%23ffffff" width="20" height="20"/></a></code>
 <code><a href="https://www.typescriptlang.org/" alt="typescript"><img src="https://api.iconify.design/simple-icons:typescript.svg?color=%23ffffff" width="20" height="20"/></a></code>
 <code><a href="https://nodejs.org/" alt="nodejs"><img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%23ffffff" width="20" height="20"/></a></code>
-<code><a href="https://www.electronjs.org/" alt="electron"><img src="https://api.iconify.design/simple-icons:electron.svg?color=%23ffffff" width="20" height="20"/></a></code>
-<code><a href="https://expressjs.com/" alt="express"><img src="https://api.iconify.design/simple-icons:express.svg?color=%23ffffff" width="20" height="20"/></a></code>
+<code><a href="https://tauri.app/" alt="tauri"><img src="https://api.iconify.design/simple-icons:tauri.svg?color=%23ffffff" width="20" height="20"/></a></code>
 <code><a href="https://www.mongodb.com/" alt="mongodb"><img src="https://api.iconify.design/simple-icons:mongodb.svg?color=%23ffffff" width="20" height="20"/></a></code>
 <code><a href="https://www.postgresql.org/" alt="postgresql"><img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23ffffff" width="20" height="20"/></a></code>
 <code><a href="https://redis.io/" alt="redis"><img src="https://api.iconify.design/simple-icons:redis.svg?color=%23ffffff" width="20" height="20"/></a></code>
