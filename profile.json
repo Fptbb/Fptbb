@@ -1,0 +1,40 @@
+{
+  "name": "Lucas Oliveira",
+  "title": "Software Developer",
+  "description": "Just a dev.",
+  "location": "Brasil",
+  "image": "https://files.catbox.moe/s1fu95.png",
+  "social": [
+    {
+      "platform": "Email",
+      "url": "mailto:lucas@fptbb.com"
+    },
+    {
+      "platform": "Discord",
+      "url": "https://discord.com/users/fptbb"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/fptbb"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/fptbb"
+    }
+  ],
+  "links": [
+    {
+      "label": "Find my other links (real bio)",
+      "url": "https://fpbio.com/"
+    },
+    {
+      "label": "My Portfolio",
+      "url": "https://cv.fptbb.com"
+    },
+    {
+      "label": "My Blog",
+      "url": "https://b.fptbb.com"
+    }
+  ]
+}
+
